@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.15.1"
+  "packageManager": "pnpm@10.15.1",
+  "devDependencies": {
+    "@types/supertest": "^6.0.3",
+    "supertest": "^7.1.4"
+  }
 }

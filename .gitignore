@@ -143,3 +143,4 @@ vite.config.ts.timestamp-*
 .env.local
 .env.development
 .env.test
+.env.example
